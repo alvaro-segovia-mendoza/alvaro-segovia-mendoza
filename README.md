@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚡ Soy Álvaro, actualmente estoy estudiando 1ºDAW en IES Alixar en Castilleja de la Cuesta, Sevilla.
+⚡ Soy Álvaro, actualmente estoy estudiando 2ºDAW en IES Alixar en Castilleja de la Cuesta, Sevilla.
 
 🔭 Me gusta la tecnología y el deporte, soy simpático y me gusta trabajar en equipo.
 
