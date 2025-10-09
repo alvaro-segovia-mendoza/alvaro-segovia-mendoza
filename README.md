@@ -1,20 +1,49 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Álvaro
 
-⚡ Soy Álvaro, actualmente estoy estudiando 2ºDAW en IES Alixar en Castilleja de la Cuesta, Sevilla.
+Desarrollador Full-Stack con interés en backend con Spring Boot, APIs REST y desarrollo frontend sencillo y funcional.  
+Me gusta construir soluciones limpias aplicando buenas prácticas, bien probadas y fáciles de desplegar.
 
-🔭 Me gusta la tecnología y el deporte, soy simpático y me gusta trabajar en equipo.
+---
 
-<!--
-**Alvarosm06/Alvarosm06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧭 Sobre mí
 
-Here are some ideas to get you started:
+Me apasiona la tecnología y el deporte, dos áreas que me motivan personalmente.  
+Tengo inquietud por aprender nuevas tecnologías y poder aplicarlas  en futuros proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗣️ Tengo un nivel de **inglés** **intermedio-avanzado** (B2), este me permite defenderme con documentación técnica y comunicarme bien en entornos de trabajo.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+| Área           | Tecnologías                                     |
+|:-------------- |:---------------------------------------------- |
+| Backend        | Java · Spring Boot · JPA · Hibernate · JUnit  |
+| Frontend       | HTML · CSS · JavaScript · PHP                   |
+| Bases de datos | MySQL                                          |
+| DevOps         | Docker · Git                                   |
+| Testing        | JUnit                                          |
+
+---
+
+## 🚀 Proyectos
+
+- **Gestor de tickets** — Aplicación para **gestión** de **incidencias**  
+  `Stack:` Spring Boot · MySQL · Docker · JUnit · Git · [Repo](https://github.com/alvaro-segovia-mendoza/dwese2526-ticket-logger-servlet-asm)
+
+- **[Próximamente]** — Página web **solidaria** para una **fundación**
+  `Stack:` Astro
+
+- **[Próximamente]** - Aplicación de reserva de **citas** **médicas** con un **trailer** **móvil** a nivel nacional. `Stack:` ??
+
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/álvaro-segovia-mendoza-a446532a6)  
+- 🌐 [GitHub](https://github.com/alvaro-segovia-mendoza)  
+
+---
+
+> _Última actualización: 2025-10-09_
