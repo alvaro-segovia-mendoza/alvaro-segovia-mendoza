@@ -14,6 +14,13 @@ Tengo inquietud por aprender nuevas tecnologías y poder aplicarlas  en futuros 
 
 ---
 
+## 💼 Experiencia
+
+- **Eviden** (formación dual, 1 mes / abril-mayo 2025)  
+  Durante este período, he aprendido a construir el backend de una aplicación conectado a una BD utilizando tecnología como Spring Boot, MySQL, Postman, JPA, Hibernate, JUnit y Git.
+  A pesar de la corta duración de este período, he conocido y conectado con muchos nuevos compañeros, tanto mentores como estudiantes.
+
+---
 ## 🛠️ Tecnologías y herramientas
 
 | Área           | Tecnologías                                     |
